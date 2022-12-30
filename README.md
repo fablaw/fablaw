@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I have just completed the Data Science Bootcamp at Le Wagon in December 2022 after having worked as medical doctor for 4 years. 
+
+I am looking forward to integrating my medical background into data science, and bringing all my skills to practice at a new position as Data Analyst/Data Scientist. 
+
+I am currently open to job opportunities! 
+
 <!--
 **fablaw/fablaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
